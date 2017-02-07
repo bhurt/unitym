@@ -16,8 +16,8 @@ library
   hs-source-dirs:      src
   exposed-modules:     Network.UnityM.Yesod
   build-depends:       base >= 4.7 && < 5
-                        , unitym
-                        , yesod
+                        , unitym >= 0.1 && < 1.0
+                        , yesod >= 1.4 && < 1.5
   default-language:    Haskell2010
   ghc-options:         -W -Wall -O2
 
