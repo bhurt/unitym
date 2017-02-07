@@ -1,5 +1,5 @@
 name:                unitym-yesod
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Implementation of the unity monad for the Yesod framework
 description:         Implementation of the unity monad for the Yesod framework
 homepage:            https://github.com/githubuser/unitym-yesod#readme
