@@ -1,13 +1,13 @@
 name:                unitym-servant
 version:             0.1.0.0
--- synopsis:
--- description:
-homepage:            https://github.com/githubuser/unitym-servant#readme
+synopsis:            Implementaation of unitym for Servant servers
+description:         Implementaation of unitym for Servant servers 
+homepage:            https://github.com/bhurt/unitym#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+author:              Brian Hurt
+maintainer:          bhurt42@gmail.com
+copyright:           2017 Brian Hurt
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
@@ -22,7 +22,9 @@ library
                         , transformers
                         , unitym
   default-language:    Haskell2010
+  ghc-options:         -W -Wall
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/unitym-servant
+  location: https://github.com/bhurt/unitym/unitym-servant
+

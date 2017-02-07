@@ -1,8 +1,8 @@
 name:                unitym-yesod
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Implementation of the unity monad for the Yesod framework
 description:         Implementation of the unity monad for the Yesod framework
-homepage:            https://github.com/githubuser/unitym-yesod#readme
+homepage:            https://github.com/bhurt/unitym#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Brian Hurt
@@ -21,4 +21,7 @@ library
   default-language:    Haskell2010
   ghc-options:         -W -Wall
 
+source-repository head
+  type:     git
+  location: https://github.com/bhurt/unitym/unitym-yesod
 
