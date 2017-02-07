@@ -1,13 +1,13 @@
 name:                unitym
 version:             0.1.0.1
-synopsis:            Initial project template from stack
+synopsis:            A monad type class shared between web services
 description:         Please see README.md
 homepage:            https://github.com/githubuser/unitym#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+author:              Brian Hurt
+maintainer:          bhurt42@gmail.com
+copyright:           2017 Brian Hurt
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
